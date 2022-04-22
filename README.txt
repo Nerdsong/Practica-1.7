@@ -1,0 +1,1 @@
+Esta es la pratica 1.7 del curso de programación.
